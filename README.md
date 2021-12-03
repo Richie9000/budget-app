@@ -9,7 +9,8 @@ The Budget App is a mobile web application where you can manage your budget: you
 - ![Ruby](https://img.shields.io/badge/Ruby-20232A?style=for-the-badge&logo=ruby&logoColor=61DAFB)
 
 ## Live Demo
-[Demo Available Here]()
+
+[Demo Available Here](https://sheltered-escarpment-74586.herokuapp.com/)
 
 ## Getting Started
 
@@ -78,10 +79,6 @@ The Budget App is a mobile web application where you can manage your budget: you
 Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](https://github.com/the-catalystmc/recipe-app/issues).
-
-## Show your support
-
-Give a ⭐️ if you like this project!
 
 ## 📝 License
 
