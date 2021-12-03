@@ -15,8 +15,7 @@ The Budget App is a mobile web application where you can manage your budget: you
 
 ### Installation
 
-1. Clone the repo
-git@github.com:Richie9000/budget-app.git
+1. Clone the repo https://github.com/Richie9000/budget-app.git
 
 ### Usage
 
