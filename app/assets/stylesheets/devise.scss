@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@100;300&family=Praise&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inconsolata:wght@100;300&family=Praise&display=swap");
 
 * {
   box-sizing: border-box;
@@ -10,7 +10,7 @@ body {
   height: 100vh;
   margin: 0;
   padding: 0;
-  font-family: "Montserrat", sans-serif;
+  font-family: "Inconsolata", sans-serif;
   font-weight: 300;
   overflow: hidden;
   color: #434b54;
@@ -25,7 +25,7 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background-color: #3778c2;
+  background-color: #042c58;
   color: white;
   padding: 20px 10px;
   height: 100%;
@@ -38,7 +38,7 @@ body {
 }
 
 .home-page {
-  color: #434b54;
+  color: #31353a;
   display: flex;
   flex-direction: column;
   height: 100%;
@@ -51,7 +51,7 @@ body {
 
     .home-title {
       align-self: center;
-      font-family: "Praise", cursive;
+      font-family: "Inconsolata", cursive;
       font-size: 80px;
       font-weight: 100;
     }
@@ -71,7 +71,7 @@ body {
       height: 65px;
       border: none;
       border-radius: 5px;
-      background-color: #3778c2;
+      background-color: #042c58;
       margin-bottom: 1px;
     }
 
@@ -81,7 +81,7 @@ body {
       background: none;
       width: 95%;
       height: 65px;
-      color: #434b54;
+      color: #5e6975;
     }
   }
 }
