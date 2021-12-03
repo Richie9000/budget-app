@@ -9,7 +9,7 @@ The Budget App is a mobile web application where you can manage your budget: you
 - ![Ruby](https://img.shields.io/badge/Ruby-20232A?style=for-the-badge&logo=ruby&logoColor=61DAFB)
 
 ## Live Demo
-[Demo Available Here](https://calm-mesa-35128.herokuapp.com/)
+[Demo Available Here]()
 
 ## Getting Started
 
@@ -18,7 +18,7 @@ The Budget App is a mobile web application where you can manage your budget: you
 1. Clone the repo
 
    ```sh
-git clone git@github.com:the-catalystmc/budget-app.git   ```
+git clone git@github.com:Richie9000/budget-app.git   ```
 
 ### Usage
 
@@ -71,11 +71,10 @@ git clone git@github.com:the-catalystmc/budget-app.git   ```
 
 ## Author
 
-👤 **Rhyine S**
+👤 **Ricardo R**
 
-- GitHub: [@the-catalystmc](https://github.com/the-catalystmc)
-- Twitter: [@catalystspeaks](https://twitter.com/catalystspeaks)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/rhyine-stewart)
+- GitHub: [@Richie9000](https://github.com/Richie9000)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/ricardo_rodr)
 
 ## 🤝 Contributing
 
