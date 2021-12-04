@@ -1,6 +1,6 @@
 # Budget App
 
-The Budget App is a mobile web application where you can manage your budget: you have a list of transactions associated with a category, so that you can see how much money you spent and on what.
+The Budget App is a mobile web application where you can manage your budget, you have a list of transactions associated with a category, so that you can see how much money you spent and on what.
 
 ![imagen](./home.jpeg)
 
@@ -11,8 +11,6 @@ The Budget App is a mobile web application where you can manage your budget: you
 ## Live Demo
 
 [Demo Available Here](https://sheltered-escarpment-74586.herokuapp.com/)
-
-## Getting Started
 
 ### Installation
 
@@ -60,12 +58,7 @@ The Budget App is a mobile web application where you can manage your budget: you
 
 ## Acknowledgements
 
-- Use controllers to handle requests and render empty views.
-- Install Ruby on Rails framework.
-- Use Ruby Gems as a software packages system.
-- Understand Rails naming conventions.
-- Use params from browser requests in a safe way.
-- Write tests for controllers.
+Gregoire Vella on Behance, the author of the original design, as required by the Creative Commons License.
 
 ## Author
 
